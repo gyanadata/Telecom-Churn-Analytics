@@ -4,10 +4,10 @@ With 21 predictor variables we need to predict whether a particular customer wil
 
 # Packages Required
 
-1.numpy
-2.pandas
-3.pandas
-4.matplotlib
-5.scikit learn
-6.seaborn
-7.statsmodels
+1. numpy
+2. pandas
+3. pandas
+4. matplotlib
+5. scikit learn
+6. seaborn
+7. statsmodels
